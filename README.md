@@ -1,4 +1,4 @@
-This repository contains all code and datasets used during my Python projects at Digital Power.
+This repository contains all code and datasets used during my Python data projects at Digital Power.
 
 The datasets can be found in the data folder.
 
